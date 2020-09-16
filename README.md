@@ -1,2 +1,2 @@
 # matplotlib-challenge
-homework - Pymaceuticalse
+homework - Pymaceuticals
